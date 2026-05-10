@@ -1,4 +1,7 @@
 Welcome to Nirmitha learning  Language
 
 kannada
-englsih
+english
+hindi
+
+
